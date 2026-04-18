@@ -19,7 +19,6 @@ img {
   display: block;
 }
 
-/* Sentinel just needs some space */
-#sentinel {
+#threshold {
   height: 40px;
 }
